@@ -1,1 +1,1 @@
-# The-networks-for-classifying-UAV-derived-Hyperspectral-images-at-the-centimeter-level-resolution-
+This code has been improved based on Xu's SSFCN networks (https://github.com/YonghaoXu/SSFCN) by adjusting some parameters, which can betterr classify UAV-derived hyperspectral images at the centimeter-level resolution, especially for complex and heterogeneous surfaces.
